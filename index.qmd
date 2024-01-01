@@ -1,0 +1,74 @@
+---
+about:
+  template: jolla
+  # image: img/danl_hearts.gif
+  # image-shape: rectangle
+  links:
+    - text: brightspace
+      href: https://brightspace.geneseo.edu
+    - text: r4ds
+      href: https://r4ds.had.co.nz
+    - text: moderndive
+      href: https://moderndive.com
+    - text: socviz
+      href: https://socviz.co
+    - text: mckinney
+      href: https://wesmckinney.com/book/
+    - text: email
+      href: mailto:bchoe@geneseo.edu
+
+filters:
+  - snow
+  
+include-after-body: copyright.html
+
+format: 
+  html:
+    toc: false
+---
+ 
+
+::: columns
+
+::: column
+![](img/danl-tiger.gif)
+:::
+
+::: column
+![](img/econ-tiger.gif)
+
+:::
+
+:::
+
+<br>
+
+<!-- ````{=html} -->
+<!-- <style>iframe{height: 800px; width: 800px}</style> -->
+<!-- <iframe height="100%" width="100%" frameborder="no" -->
+<!-- src="best-fitting.html"> -->
+<!-- </iframe> -->
+<!-- ```` -->
+
+# Data Analytics at SUNY Geneseo
+### Byeong-Hak Choe
+
+<br>
+
+Data visualization and machine learning for business and economics with Python and R 
+<br>
+
+Web projects with Python Notebook and Quarto
+<br>
+
+Data preparation and management with Python, R, SQL, and web API 
+<br>
+
+Web scrapping and automation with Python Selenium
+<br>
+
+Version control with Git and GitHub
+<br>
+
+Practical AI with ChatGPT
+
