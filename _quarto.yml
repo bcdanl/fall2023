@@ -11,7 +11,7 @@ website:
     
     # logo: img/logo-title-slide.png
     pinned: true
-    left: 
+    left:
       - text: About
         href: cv.qmd
         
